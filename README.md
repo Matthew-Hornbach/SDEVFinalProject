@@ -7,4 +7,5 @@ The application will then ask them what toppings they would want on their ice cr
 finally it will give you the option to order your ice cream and give you the pricings with it.
 
 Uses tkinter and tkinter.font libraries
+
 The Ice-Creamations - Matthew Hornbach.py file is the finished program.
